@@ -1,0 +1,261 @@
+{
+  "created": "",
+  "updated": "",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "",
+  "profileId": "athena",
+  "version": "no_version",
+  "items": {
+    "cosmos-loadout": {
+      "templateId": "CosmeticLocker:cosmeticlocker_athena",
+      "attributes": {
+        "locker_slots_data": {
+          "slots": {
+            "MusicPack": {
+              "items": [
+                ""
+              ]
+            },
+            "Character": {
+              "items": [
+                ""
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "Backpack": {
+              "items": [
+                ""
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "SkyDiveContrail": {
+              "items": [
+                ""
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "Dance": {
+              "items": [
+                "AthenaDance:eid_dancemoves",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            "LoadingScreen": {
+              "items": [
+                ""
+              ]
+            },
+            "Pickaxe": {
+              "items": [
+                "AthenaPickaxe:defaultpickaxe"
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "Glider": {
+              "items": [
+                "AthenaGlider:defaultglider"
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "ItemWrap": {
+              "items": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "activeVariants": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            }
+          }
+        },
+        "use_count": 0,
+        "banner_icon_template": "",
+        "banner_color_template": "",
+        "locker_name": "CosmosFN.com",
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "AthenaDance:eid_dancemoves": {
+      "templateId": "AthenaDance:eid_dancemoves",
+      "attributes": {
+        "item_seen": true,
+        "variants": []
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:defaultglider": {
+      "templateId": "AthenaGlider:defaultglider",
+      "attributes": {
+        "item_seen": true,
+        "variants": []
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:defaultpickaxe": {
+      "templateId": "AthenaPickaxe:defaultpickaxe",
+      "attributes": {
+        "item_seen": true,
+        "variants": []
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {
+      "StatsSeasons": {
+        "Solo": {
+          "Wins": 0,
+          "Matches": 0,
+          "Kills": 0,
+          "Placetop10": 0,
+          "Placetop25": 0,
+          "Timeplayed": 0,
+          "Timeoverrited": 0,
+          "LastUpdateTime": ""
+        },
+        "Duos": {
+          "Wins": 0,
+          "Matches": 0,
+          "Kills": 0,
+          "Placetop10": 0,
+          "Placetop25": 0,
+          "Timeplayed": 0,
+          "Timeoverrited": 0,
+          "LastUpdateTime": ""
+        },
+        "Trios": {
+          "Wins": 0,
+          "Matches": 0,
+          "Kills": 0,
+          "Placetop10": 0,
+          "Placetop25": 0,
+          "Timeplayed": 0,
+          "Timeoverrited": 0,
+          "LastUpdateTime": ""
+        },
+        "Squads": {
+          "Wins": 0,
+          "Matches": 0,
+          "Kills": 0,
+          "Placetop10": 0,
+          "Placetop25": 0,
+          "Timeplayed": 0,
+          "Timeoverrited": 0,
+          "LastUpdateTime": ""
+        },
+        "Others": {
+          "Wins": 0,
+          "Matches": 0,
+          "Kills": 0,
+          "Placetop10": 0,
+          "Placetop25": 0,
+          "Timeplayed": 0,
+          "Timeoverrited": 0,
+          "LastUpdateTime": ""
+        },
+        "All": {
+          "Wins": 0,
+          "Matches": 0,
+          "Kills": 0,
+          "Placetop10": 0,
+          "Placetop25": 0,
+          "Timeplayed": 0,
+          "Timeoverrited": 0,
+          "LastUpdateTime": ""
+        }
+      },
+      "past_seasons": [],
+      "season_match_boost": 0,
+      "loadouts": [
+        "cosmos-loadout"
+      ],
+      "favorite_victorypose": "",
+      "mfa_reward_claimed": true,
+      "quest_manager": {
+        "dailyLoginInterval": "0001-01-01T00:00:00.000Z",
+        "dailyQuestRerolls": 1
+      },
+      "book_level": 1,
+      "season_num": 0,
+      "favorite_consumableemote": "",
+      "banner_color": "",
+      "favorite_callingcard": "",
+      "favorite_character": "",
+      "favorite_spray": [],
+      "book_xp": 0,
+      "battlestars": 1,
+      "battlestars_season_total": 1,
+      "style_points": 1,
+      "alien_style_points": 1,
+      "purchased_bp_offers": [],
+      "favorite_loadingscreen": "",
+      "book_purchased": false,
+      "lifetime_wins": 0,
+      "favorite_hat": "",
+      "level": 1,
+      "favorite_battlebus": "",
+      "favorite_mapmarker": "",
+      "favorite_vehicledeco": "",
+      "accountLevel": 15,
+      "favorite_backpack": "",
+      "favorite_dance": [
+        "AthenaDance:eid_dancemoves",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "inventory_limit_bonus": 0,
+      "last_applied_loadout": "cosmos-loadout",
+      "favorite_skydivecontrail": "",
+      "favorite_pickaxe": "AthenaPickaxe:defaultpickaxe",
+      "favorite_glider": "AthenaGlider:defaultglider",
+      "daily_rewards": {},
+      "xp": 0,
+      "superChargedXP": 0,
+      "season_friend_match_boost": 0,
+      "active_loadout_index": 0,
+      "favorite_musicpack": "",
+      "banner_icon": "",
+      "favorite_itemwraps": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  "commandRevision": 0
+}
